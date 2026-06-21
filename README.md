@@ -1,2 +1,3 @@
 # Arus-CashFlowSmoother
-Repo for a bash hackathon for fun
+Repo for a hackathon for fun
+:3
